@@ -1,0 +1,14 @@
+{
+  "name": "bguler11-kurfarki_gms",
+  "version": "1.0.0",
+  "description": "bguler11-KURFARKI_GMS",
+  "repositoryLayout": {
+    "formatVersion": 5,
+    "format": "json",
+    "objectStorage": "plain",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false"
+  }
+}
